@@ -1,0 +1,158 @@
+.food-munch-logo{
+  height: 60px;
+  width: 70px;
+  margin: 0;
+}
+#navItem1{
+  color: #323f4b;
+  font-family: "Roboto";
+}
+#navItem2{
+  color: #323f4b;
+  font-family: "Roboto";
+}
+#navItem3{
+  color: #323f4b;
+  font-family: "Roboto";
+}
+#navItem4{
+  color: #323f4b;
+  font-family: "Roboto";
+}
+.banner-section-bg-container{
+  height: 100vh;
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+  background-size: cover;
+  font-weight: 300;
+}
+.banner-heading{
+  font-size: 45px;
+  color: #ffffff;
+  font-family: "Roboto";
+  font-weight: 300;
+}
+.banner-caption{
+  font-size: 23px;
+  color: #f5f7fa;
+  font-family: "Roboto";
+}
+.custom-button{
+  height: 45px;
+  width: 130px;
+  color: #ffffff;
+  background-color: #d0b200;
+  border-radius: 8px;
+  border-width: 0px;
+  margin-right: 10px;
+}
+.border-outline-button{
+  height: 45px;
+  width: 130px;
+  color: #d0b200;
+  background-color: transparent;
+  border-width: 1px;
+  border-color: #d0b200;
+  border-style: solid;
+  border-radius: 8px;
+}
+.wcu-section{
+  background-color: #f9fbfe;
+}
+.wcu-section-heading{
+  color: #183b56;
+  font-size: 28px;
+  font-family: Roboto;
+  font-weight: 700;
+}
+.wcu-section-description{
+  color: #5a7184;
+  font-size: 16px;
+  font-family: Roboto;
+}
+.wcu-card{
+  background-color: #ffffff;
+  border-color: #e5eaf4;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px;
+}
+.wcu-card-image{
+  height: 90px;
+  width: 87px;
+}
+.wcu-card-title{
+  color: #323f4b;
+  font-family: Roboto;
+  font-size: 22px;
+  font-weight: 500;
+}
+.wcu-card-description{
+  font-family: Roboto;
+  color: #7b8794;
+  font-size: 16px;
+}
+.offers{
+  color: #323f4b;
+  font-style: italic;
+  font-weight: 600;
+}
+.explore-menu-section{
+  background-color: #ffffff;
+}
+.menu-item-card{
+  border-radius: 16px;
+}
+.menu-section-heading{
+  font-family: Roboto;
+  font-size: 28px;
+  font-weight: 700;
+  color: #183b56;
+}
+.menu-item-image{
+  border-radius: 16px;
+}
+.menu-card-title{
+  color: #323f4b;
+  font-size: 18px;
+  font-family: Roboto;
+  font-weight: 500;
+  margin-top: 24px;
+}
+.menu-item-link{
+  color: #d0b200;
+  font-size: 14px;
+  font-family: Roboto;
+  font-weight: 500;
+}
+.healthy-food-section{
+  background-color:#f9fbfe;
+}
+.healthy-food-section-image{
+  width: 270px;
+}
+.healthy-food-section-heading{
+  font-size: 28px;
+  color: #183b56;
+  font-weight: 700;
+  font-family: Roboto;
+}
+.healthy-food-section-description{
+  color: #5a7184;
+  font-family: Roboto;
+  font-size: 16px;
+}
+.delivery-and-payment-section {
+  background-color: white;
+}
+.payment-card-img{
+  height: 50px;
+  width: 50px;
+  margin-right: 28px;
+}
+.thanking-customer-section{
+  background-color: #d0b2001a;
+}
+.thanking-customer-section-img{
+  width: 270px;
+  margin-bottom: 20px;
+}
